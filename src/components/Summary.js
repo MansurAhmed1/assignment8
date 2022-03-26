@@ -3,11 +3,13 @@ import './Summery.css'
 
 
 const Summary = (prop) => {
-    const{cart,chose1ForMe,clear,remove}=prop;
+    const{cart,clear,remove,chose1ForMe}=prop;
  
     // console.log(array[(Math.random()*array.length).toFixed(0)])
    
-console.log(cart)
+// function chose1ForMe(){
+// console.log(cart)
+// }
 
 
     return (
