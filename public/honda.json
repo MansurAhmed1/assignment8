@@ -1,0 +1,68 @@
+[
+    {
+      "id": "1",
+      "name": "Yamah MT15",
+      "price": 4000,
+      "img": "https://media.zigcdn.com/media/model/2021/Nov/front-right-view-675674576_930x620.jpg"
+     
+       
+    },
+    {
+       "id": "2",
+      "name": "Yamaha FZ10-17",
+      "price":1000,
+      "img": "https://global.yamaha-motor.com/business/img/pic_001.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Yamaha XSR125",
+      "price": 2500,
+      "img": "https://ic1.maxabout.us/autos/tw_india//2/2021/5/2022-yamaha-xsr-125.jpg"
+   
+    },
+    {
+        "id": "4",
+        "name": "Yamaha YZ5-R3",
+        "price":5500,
+        "img": "https://dd5394a0b8ca8e97ba29-abf76f3d91a2125517d6c7c409f095c7.ssl.cf1.rackcdn.com/content/common/files/motorcycle/vr/2022-yfzr3/22r3Blue-1200-01.jpg"
+     
+      },
+    {
+        "id": "5",
+        "name": "Yamaha FZS",
+        "price": 3000,
+        "img": "https://acimotors-bd.com/assets/images/product/atumobile/fzs-fi/armada-blue/fzs-armada-blue-2.jpg"
+       
+     
+      },
+    {
+        "id": "6",
+        "name": "Yamaha R15 V-3",
+        "price":4040,
+        "img": "https://www.banglamotor.net/images/yamaha/yamaha-r15-v3-indonesian-image1.jpg"
+     
+      },
+      {
+        "id": "7",
+        "name": "Yamaha XSR-155",
+        "price":4000,
+        "img": "https://www.indiacarnews.com/wp-content/uploads/2021/05/2021-Yamaha-XSR155-Matte-Green-Color.jpg"
+     
+      },
+      {
+        "id": "8",
+        "name": "Yamaha YZ-65",
+        "price":2980,
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/octane/Z3RYBBZ65WWFCU5RDHN2O6BJGY.jpg"
+     
+      },
+      {
+        "id": "9",
+        "name": "Yamaha Cycle-Bike",
+        "price":6080,
+        "img": " https://d1wa5qhtul915h.cloudfront.net/app/uploads/2022/03/Bike-Europe-Yamaha-B1-1024x683.jpg"
+     
+      }
+
+
+]
