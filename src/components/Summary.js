@@ -1,4 +1,5 @@
 import SmallCart from "./SmallCart";
+import './Summery.css'
 
 
 const Summary = (prop) => {
@@ -10,11 +11,14 @@ console.log(cart)
 
 
     return (
-        <div>
-
-      {
+        <div >
+            <h3 style={{color:"white"}}>Selected Bike</h3>
+<div className="smallParents">
+{
           cart.map((obj,index)=> <SmallCart obj={obj} key={index} remove={remove}></SmallCart>)
       }
+</div>
+     
 
        
 

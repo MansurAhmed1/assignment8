@@ -6,7 +6,7 @@ import './Cart.css'
 
 const Cart = (prop) => {
     const{meal, clickFunction}=prop
-    const{name,img,price,id}=meal
+    const{name,img,price}=meal
    
     return (
         
@@ -18,7 +18,7 @@ const Cart = (prop) => {
 <div className="card-info">
 
   <h3 className='product-name'>Name:{name}  </h3>
-  <p  className='product-id'>id-{id}</p>
+  
   <p className='product-price'>Price:{price}$</p>
 </div>
 <button onClick={function(){clickFunction(meal)}} ><span style={{marginRight:"10px"}}>Add to Cart</span>

@@ -29,3 +29,18 @@ align-items: center;
    text-decoration: none;
    color: aliceblue;
 }
+
+.menu-icon{
+    display: none;
+}
+@media (max-width: 500px){
+    .nav div ul{
+        display: none;
+    }
+    .header{
+        padding: 20px 0px;
+    }
+    .menu-icon{
+        display: block;
+    }
+}
