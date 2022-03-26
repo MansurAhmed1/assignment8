@@ -90,7 +90,7 @@ setCart([...obj])
              products.map((product,index)=><Cart  meal={product} key={index} clickFunction={handleClick} ></Cart>)
          }
         </div>
-        <div style={{backgroundColor:"white",textAlign:"start",padding:"10px 30px"}}>
+        <div className='question' >
             <h1>how react works</h1>
             We usually use JavaScript with HTML, CSS on the website. Now the browser creates a dome tree behind the scenes so that the user can interact with that dome. This process in the browser is called critical render path [].
             <img className='extra-image'  src="https://droidxplore.com/wp-content/uploads/2021/12/DroidXplore-1.png" alt="" /> <br />

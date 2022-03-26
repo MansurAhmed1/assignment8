@@ -29,6 +29,12 @@
 .props>div{
     border: 1px solid black;
 }
+.question{
+    /* backgroundColor:"white",textAlign:"start",padding:"10px 30px"}} */
+    background-color: white;
+    text-align: start;
+    padding: 10px 30px;
+}
 
 @media (max-width: 500px) { 
     .products{
@@ -44,5 +50,18 @@
     }
     .extra-image{
         width: 300px;
+        margin: auto;
+        display: block;
     }
+    .cart{
+      width: 90%;
+      margin: auto;
+      height: 350px;
+      margin-top: 10px;
+    
+    }
+  .question{
+      padding: 10px 5px;
+      margin: 0px 20px;
+  }
  }
