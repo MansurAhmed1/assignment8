@@ -22,10 +22,10 @@
 
 
 .cart{
-    background-color: rgba(128, 128, 128, 0.767);
+    background-color:rgba(128, 128, 128, 0.767) ;
     position: sticky;
     top: 0px;
-    height: 350px;
+    height: 575px;
 
 }
 .props{
