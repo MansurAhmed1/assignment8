@@ -26,10 +26,14 @@ const Products = () => {
 
     //handleclickFunction
     function handleClick(meal){
+
+        if(!cart.includes(meal)){
+            if(cart.length<4){
+                setCart([...cart,meal])
+             }
+        }
+
      
-     if(cart.length<4){
-        setCart([...cart,meal])
-     }
    
         
 
