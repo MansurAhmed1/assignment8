@@ -6,6 +6,7 @@ import './SmallCart.css'
 const SmallCart = (prop) => {
     const{obj,remove}=prop
     const{name,img,id}=obj
+    // console.log(obj[0])
     return (
         <div className='smallCart'>
             <img className='image' src={img} alt="" />

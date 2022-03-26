@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Honda-Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Repository-Link](https://github.com/MansurAhmed1/assignment8).
 
 ## Available Scripts
 

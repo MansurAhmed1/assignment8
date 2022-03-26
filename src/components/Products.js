@@ -61,7 +61,8 @@ function remove(id){
 
 // //  e.target.parentNode.style.display="none"
  const obj=cart.filter(obj=>obj.id !==id)
-setCart([obj])
+ console.log(obj)
+setCart([...obj])
 
 }
 

@@ -6,7 +6,7 @@ const Summary = (prop) => {
  
     // console.log(array[(Math.random()*array.length).toFixed(0)])
    
-
+console.log(cart)
 
 
     return (
