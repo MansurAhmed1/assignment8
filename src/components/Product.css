@@ -13,14 +13,6 @@
    grid-template-columns: 4fr 1fr;
 }
 
-
-
-
-
-
-
-
-
 .cart{
     background-color:rgba(128, 128, 128, 0.767) ;
     position: sticky;
@@ -37,16 +29,20 @@
 .props>div{
     border: 1px solid black;
 }
+
 @media (max-width: 500px) { 
     .products{
         display: grid;
         grid-template-columns: 1fr ;
         padding-bottom: 40px;
+        order:2;
         
     }
     .cards{
-       display: flex;
-       flex-direction: column;
-     }
-     
+        display: flex;
+        flex-direction: column;
+    }
+    .extra-image{
+        width: 300px;
+    }
  }
