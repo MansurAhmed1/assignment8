@@ -27,6 +27,7 @@ const Summary = (prop) => {
 <div style={{paddingTop:"10px"}}>
 <button style={{border:"none",borderRadius:"3px",padding:"5px",color:"green",margin:"5px",}} onClick={chose1ForMe}>CHOOSE ONE</button>
 <button style={{border:"none",borderRadius:"3px",padding:"5px",color:"green",marginRight:"5px"}}   onClick={clear}>CHOOSE AGAIN</button>
+
 </div>
        </div>
     );

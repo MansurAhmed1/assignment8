@@ -8,7 +8,7 @@ const Header = () => {
         <div className='header'>
           <div className="nav">
           <div className='logo'>
-                Honda Store
+            CAR STORE 
             </div>
             <div>
             <ul>
